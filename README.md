@@ -1,5 +1,8 @@
 # Coffee-Shop-Sales
 
+![Coffee Shop Sales](https://github.com/tanusreekolli/Coffee-Shop-Sales/assets/152878576/11d215d0-cf02-4d13-8122-331ff93371f6)
+
+
 ##Overview
 
 This project is aimed at providing insightful analysis of the Coffee Shop Sales for a Company. The analysis is presented through a comprehensive dashboard created in Microsoft Excel using pivot tables and charts.
